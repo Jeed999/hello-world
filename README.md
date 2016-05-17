@@ -1,2 +1,2 @@
 # hello-world
-Hello World description
+This is my first Hello World on GitHub
